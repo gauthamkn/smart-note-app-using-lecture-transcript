@@ -105,6 +105,12 @@ Made by Gautham
 
 ---
 
+Attention:
+
+add a .env with the api key for the generation of the notes..... :)
+
+
+-------
 ## 🧪 Coming Soon
 
 - 🧠 Note categorization by difficulty
